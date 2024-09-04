@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016912465167",
+    "project_id": "communidrive-425614",
+    "storage_bucket": "communidrive-425614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016912465167:android:e2c880ab37860f745dc27a",
+        "android_client_info": {
+          "package_name": "com.example.communidrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApUSHAsCssuUdrQoqNp82KDJvsEILDZak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
